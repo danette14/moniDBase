@@ -129,6 +129,4 @@ Sample connection command:
 psql -h localhost -p 5432 -U myuser -d moniDB
 ```
 
-## 📜 License
 
-[Add your license information here]
