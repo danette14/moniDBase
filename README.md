@@ -1,12 +1,12 @@
-moniDBase
+# moniDBase
 A repository containing SQL schema and initialization scripts for the "moniDB" database, which stores user and website scanning information.
-Overview
+# Overview
 This repository contains the necessary files to set up a PostgreSQL database for a website scanning application. The database structure includes:
 
 users table: Stores user information including authentication details
 scans table: Stores website scan results with SSL and status information
 
-Repository Contents
+# Repository Contents
 
 init_db.sql: SQL initialization script that creates the necessary tables and constraints
 install_db.sh: Shell script for easy one-line installation
